@@ -5,24 +5,20 @@
 * Every Project source code is python notebook and i have used jupyter notebook for first 2 projects and Final project is completed using google colab.
 
 ### PROJECT_1: VOlleyball DataSet Analysis and Visualization.
-//--
+
   * Dataset has been extracted from Kaggle : https://www.kaggle.com/datasets/kacpergregorowicz/-mens-volleyball-plusliga-20082022
   * Each and every detail and comments are mentioned in the source file.
   * The data was collected from the official Plus Liga’s website and contains matches played from seasons 2008/2009 to 2022/2023.
   * Data Source was discovered based on my interests, I am a fan of volleyball, and I am a player too.
-  * Data is free to download, it is public data.
-  * Data is legal to Access since it is released to the public.
-  * There is no pre-documentation is present for the dataset provided above.
   * Data size is 2562 rows and 44 columns, 459KB.
   * The Dataset provided can be used to make an analysis and study the team statistics. Based on the statistics, we can predict the future game's outcome. 
-//--
+
 
 ### PROJECT_2: Gases Emissions by fuel type and industry type.
 
   * Data Source Location: https://www.epa.gov/ghgreporting/data-sets
-  * Data Source is an open source and legal to access, it is discovered when i am going through some news articles regarding global warming and emissions.
+  * when i am going through some news articles regarding global warming and emissions, I came up with the project idea.
   * Data is about the gases emissions on the basis of the fuel used.
-  * EDA is not available for the Dataset which i have choosen
   * size of the Data: 276960 rows and 12 columns
   * The dataset has multiple sheets inside, one of them indicates emissions based on unit, and another sheet indicates fuel data.
 
