@@ -1,4 +1,4 @@
-# Summer_2023
+# Masters_2023
 
 * These Repository contains the projects which are done during my first semester of masters.
 * All of the Projects are related to Exploratory Data Analysis and proving a particular Hypothesis through analysed patterns.
