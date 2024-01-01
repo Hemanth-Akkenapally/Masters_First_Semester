@@ -4,7 +4,7 @@
 * All of the Projects are related to Exploratory Data Analysis and proving a particular Hypothesis through analysed patterns.
 * Every Project source code is python notebook and i have used jupyter notebook for first 2 projects and Final project is completed using google colab.
 
-### PROJECT_1: VOlleyball DataSet Analysis and Visualization.
+### PROJECT_1: Volleyball DataSet Analysis and Visualization.
 
   * Dataset has been extracted from Kaggle : https://www.kaggle.com/datasets/kacpergregorowicz/-mens-volleyball-plusliga-20082022
   * Each and every detail and comments are mentioned in the source file.
@@ -37,4 +37,5 @@ pip install pyxlsb to read the xlsb file._**
 **_Hypothesis:
 Based on the year from 2020 to 2022, contracts which are properly documented and archived are decreased due to covid effects.
 Department of defence and agricultural contracts are more compared to other departments because of the rapid development of the technology._**
-
+  * Pandas Profiling is a Python library that provides an easy-to-use way to create an exploratory data analysis (EDA) report for a pandas DataFrame.
+  * Pandas Profiling streamlines the process of exploratory data analysis by generating comprehensive reports with visualizations and statistical insights. With a single line of code, you can create a detailed HTML report containing information on data types, missing values, summary statistics, correlations, and distribution of variables, making it a valuable tool for understanding and cleaning datasets efficiently.
